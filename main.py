@@ -6,7 +6,7 @@ import questionary
 # them later and make sure we only touch things WE created.
 # ------------------------------------------------------------
 TAGS = {
-    "CreatedBy": "platform-cli",
+    "CreatedBy": "platform-cli-ilan",
     "Owner": "Ilan",
 }
 
