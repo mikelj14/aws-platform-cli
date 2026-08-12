@@ -42,6 +42,8 @@ All actions are driven by a simple interactive menu — arrow keys to pick resou
 ```bash
 git clone https://github.com/mikelj14/aws-platform-cli.git
 cd aws-platform-cli
+python3 -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
