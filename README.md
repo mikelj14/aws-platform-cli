@@ -40,7 +40,7 @@ All actions are driven by a simple interactive menu — arrow keys to pick resou
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/aws-platform-cli.git
+git clone https://github.com/mikelj14/aws-platform-cli.git
 cd aws-platform-cli
 pip install -r requirements.txt
 ```
